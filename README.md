@@ -49,7 +49,11 @@ including data preprocessing, model selection, training, and evaluation metrics.
 3. Safer online environment for users.
 4. Better protection against malicious activities
 
+# Timeline 
 
-
+1. Proposal (Problem Identification- ) – February 5th , 2024
+2. Model Development - February 26th , 2024
+3. Analysis – March 26th , 2024
+4. Final report- April 18th , 2024
 
 
