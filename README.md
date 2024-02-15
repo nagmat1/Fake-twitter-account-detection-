@@ -41,3 +41,15 @@ including data preprocessing, model selection, training, and evaluation metrics.
 3. Varsha Bathala
 4. Sai Jyothi Yalamuri
 5. Aqsa Yousaf
+
+# Benefits : 
+
+1. Enhanced social media platform security.
+2. Reduced spread of spam and scams.
+3. Safer online environment for users.
+4. Better protection against malicious activities
+
+
+
+
+
