@@ -34,3 +34,10 @@ spams in online social media.
 • Documentation: Comprehensive documentation detailing the model development process,
 including data preprocessing, model selection, training, and evaluation metrics.
 
+# Team Members:
+
+1. Tasdiqul Islam
+2. Nagmat Nazarov
+3. Varsha Bathala
+4. Sai Jyothi Yalamuri
+5. Aqsa Yousaf
